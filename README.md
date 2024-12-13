@@ -64,7 +64,9 @@ http://localhost:5000/
 Future Enhancements :-
 
 Mobile App Integration: Deploy the model as a mobile app for easy use.
-Advanced Analytics: Provide additional features like behavior or health recommendations based on the breed.
+Advanced Analytics:
+Provide additional features like behavior or health recommendations based on the breed.
+Environment and temperature details will be adding.
 Custom Models: Train models to recognize mixed breeds or other animals.
 
 
