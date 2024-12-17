@@ -73,3 +73,7 @@ Custom Models: Train models to recognize mixed breeds or other animals.
 Acknowledgments :-
 Thanks to publicly available datasets like the Stanford Dogs Dataset for training the model.
 Inspired by advancements in computer vision and machine learning research.
+
+If you want projects similar to this found those on here -- "Kaggle.com".
+
+There you will get codes and data sets for your projects. If you are newbie of using google colab, try there on the Kaggle Notebook. It is also a freindly platform to try your code.
