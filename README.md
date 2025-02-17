@@ -76,4 +76,6 @@ Inspired by advancements in computer vision and machine learning research.
 
 If you want projects similar to this found those on here -- "Kaggle.com".
 
+To get this project datasets and related things to be done, visit this -- "https://www.kaggle.com/code/dansbecker/exercise-intro-to-dl-for-computer-vision/input"
+
 There you will get codes and data sets for your projects. If you are newbie of using google colab, try there on the Kaggle Notebook. It is also a freindly platform to try your code.
