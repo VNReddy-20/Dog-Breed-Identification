@@ -50,16 +50,6 @@ bash
 Copy code
 pip install -r requirements.txt
 
-Run the application:
-
-bash
-Copy code
-python app.py
-Open the application in a browser:
-arduino
-Copy code
-http://localhost:5000/
-
 
 Future Enhancements :-
 
